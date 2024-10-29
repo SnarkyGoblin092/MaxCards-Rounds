@@ -13,6 +13,7 @@
       - [Jogok](#jogok)
          - [Jogok deklarálása](#jogok-deklarálása)
          - [Jogok lekérése](#jogok-lekérése)
+- [Suffix](#suffix)
 
 # Überbase
 
